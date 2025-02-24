@@ -16,4 +16,4 @@ A Java-based Employee Management System that facilitates CRUD operations for emp
 ## Setup Instructions
 1. Clone the repository:
    ```sh
-   git clone https://github.com/supriyasagireddy/employee-management-system.git
+   git clone https://github.com/supriyasagireddy/employeeJDBC.git
